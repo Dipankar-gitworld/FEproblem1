@@ -1,0 +1,33 @@
+.main-body{
+    max-width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.select-destination{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  
+}
+.select-destination+div{
+   color: red;
+   
+  
+}
+
+.find-btn{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.time-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

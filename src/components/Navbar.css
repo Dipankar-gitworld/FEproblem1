@@ -1,0 +1,21 @@
+.nav-div{
+    border: 1px solid black;
+    background-color: #300202;
+    /* color: #a37b7b; */
+    color: white;
+}
+
+
+.main-nav-div{
+    width: 80%;
+    
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-nav-div>div{
+    display: flex;
+    gap: 20px;
+
+}
